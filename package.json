@@ -1,10 +1,10 @@
 {
-  "name": "@thinkincoin-libs/v3-sdk",
+  "name": "@thinkincoin-libs/uniswap-v3-sdk",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "version": "3.9.0",
+  "version": "3.9.1",
   "description": "⚒️ An SDK for building applications on top of Uniswap V3",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
