@@ -30,13 +30,13 @@
     "@thinkincoin-libs/swap-router-contracts": "^1.2.1",
     "@thinkincoin-libs/uniswap-v3-periphery": "^1.1.1",
     "@thinkincoin-libs/uniswap-v3-sdk": "^3.9.0",
-    "@thinkincoin-libs/uniswap-v3-staker": "1.0.0",
+    "@thinkincoin-libs/uniswap-v3-staker": "^1.0.0",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
-    "@thinkincoin-libs/uniswap-v3-core": "1.0.0",
+    "@thinkincoin-libs/uniswap-v3-core": "^1.0.2",
     "tsdx": "^0.14.1"
   },
   "engines": {
