@@ -1,4 +1,4 @@
-import { BigintIsh } from '@thinkincoin-libs/sdk-core'
+import { BigintIsh } from '@uniswap/sdk-core'
 
 /**
  * Provides information about ticks

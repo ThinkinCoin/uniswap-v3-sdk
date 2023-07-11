@@ -1,4 +1,4 @@
-import { Price, Token } from '@thinkincoin-libs/sdk-core'
+import { Price, Token } from '@uniswap/sdk-core'
 import { tickToPrice } from './index'
 import { priceToClosestTick } from './priceTickConversions'
 

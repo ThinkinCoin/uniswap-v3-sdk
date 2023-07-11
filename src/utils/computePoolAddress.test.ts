@@ -1,4 +1,4 @@
-import { Token } from '@thinkincoin-libs/sdk-core'
+import { Token } from '@uniswap/sdk-core'
 import { FeeAmount } from '../constants'
 import { computePoolAddress } from './computePoolAddress'
 

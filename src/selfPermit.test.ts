@@ -1,4 +1,4 @@
-import { Token } from '@thinkincoin-libs/sdk-core'
+import { Token } from '@uniswap/sdk-core'
 import JSBI from 'jsbi'
 import { AllowedPermitArguments, SelfPermit, StandardPermitArguments } from './selfPermit'
 
