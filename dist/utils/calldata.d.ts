@@ -1,4 +1,4 @@
-import { BigintIsh } from '@uniswap/sdk-core';
+import { BigintIsh } from '@thinkincoin-libs/sdk-core';
 /**
  * Generated method parameters for executing a call.
  */

@@ -1,4 +1,4 @@
-import { Currency, Price, Token } from '@uniswap/sdk-core';
+import { Currency, Price, Token } from '@thinkincoin-libs/sdk-core';
 import { Pool } from './pool';
 /**
  * Represents a list of pools through which a swap can occur

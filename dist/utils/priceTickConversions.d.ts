@@ -1,4 +1,4 @@
-import { Price, Token } from '@uniswap/sdk-core';
+import { Price, Token } from '@thinkincoin-libs/sdk-core';
 /**
  * Returns a price object corresponding to the input tick and the base/quote token
  * Inputs must be tokens because the address order is used to interpret the price represented by the tick
