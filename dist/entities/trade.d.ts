@@ -1,4 +1,4 @@
-import { Currency, Percent, Price, CurrencyAmount, TradeType } from '@thinkincoin-libs/sdk-core';
+import { Currency, Percent, Price, CurrencyAmount, TradeType } from '@thinkincoin/sdk-core';
 import { Pool } from './pool';
 import { Route } from './route';
 /**

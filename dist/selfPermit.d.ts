@@ -1,4 +1,4 @@
-import { BigintIsh, Token } from '@thinkincoin-libs/sdk-core';
+import { BigintIsh, Token } from '@thinkincoin/sdk-core';
 import { Interface } from '@ethersproject/abi';
 export interface StandardPermitArguments {
     v: 0 | 1 | 27 | 28;

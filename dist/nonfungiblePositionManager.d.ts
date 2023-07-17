@@ -1,4 +1,4 @@
-import { BigintIsh, Percent, CurrencyAmount, Currency, NativeCurrency } from '@thinkincoin-libs/sdk-core';
+import { BigintIsh, Percent, CurrencyAmount, Currency, NativeCurrency } from '@thinkincoin/sdk-core';
 import { Position } from './entities/position';
 import { MethodParameters } from './utils/calldata';
 import { Interface } from '@ethersproject/abi';

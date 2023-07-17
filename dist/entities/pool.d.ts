@@ -1,4 +1,4 @@
-import { BigintIsh, CurrencyAmount, Price, Token } from '@thinkincoin-libs/sdk-core';
+import { BigintIsh, CurrencyAmount, Price, Token } from '@thinkincoin/sdk-core';
 import JSBI from 'jsbi';
 import { FeeAmount } from '../constants';
 import { Tick, TickConstructorArgs } from './tick';

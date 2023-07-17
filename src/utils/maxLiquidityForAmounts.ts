@@ -1,4 +1,4 @@
-import { BigintIsh } from '@thinkincoin-libs/sdk-core'
+import { BigintIsh } from '@thinkincoin/sdk-core'
 import JSBI from 'jsbi'
 import { Q96 } from '../internalConstants'
 

@@ -1,4 +1,4 @@
-import { BigintIsh } from '@thinkincoin-libs/sdk-core';
+import { BigintIsh } from '@thinkincoin/sdk-core';
 import JSBI from 'jsbi';
 /**
  * Computes the maximum amount of liquidity received for a given amount of token0, token1,

@@ -1,4 +1,4 @@
-import { BigintIsh } from '@thinkincoin-libs/sdk-core'
+import { BigintIsh } from '@thinkincoin/sdk-core'
 import { TickList } from '../utils/tickList'
 import { Tick, TickConstructorArgs } from './tick'
 import { TickDataProvider } from './tickDataProvider'

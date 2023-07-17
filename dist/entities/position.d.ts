@@ -1,4 +1,4 @@
-import { BigintIsh, Percent, Price, CurrencyAmount, Token } from '@thinkincoin-libs/sdk-core';
+import { BigintIsh, Percent, Price, CurrencyAmount, Token } from '@thinkincoin/sdk-core';
 import JSBI from 'jsbi';
 import { Pool } from './pool';
 interface PositionConstructorArgs {

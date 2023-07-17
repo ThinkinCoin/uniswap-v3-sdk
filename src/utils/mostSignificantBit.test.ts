@@ -1,4 +1,4 @@
-import { MaxUint256 } from '@thinkincoin-libs/sdk-core'
+import { MaxUint256 } from '@thinkincoin/sdk-core'
 import JSBI from 'jsbi'
 import { ONE } from '../internalConstants'
 import { mostSignificantBit } from './mostSignificantBit'

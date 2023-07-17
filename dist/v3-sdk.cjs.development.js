@@ -4,7 +4,7 @@ Object.defineProperty(exports, '__esModule', { value: true });
 
 function _interopDefault (ex) { return (ex && (typeof ex === 'object') && 'default' in ex) ? ex['default'] : ex; }
 
-var sdkCore = require('@thinkincoin-libs/sdk-core');
+var sdkCore = require('@thinkincoin/sdk-core');
 var JSBI = _interopDefault(require('jsbi'));
 var invariant = _interopDefault(require('tiny-invariant'));
 var abi = require('@ethersproject/abi');
@@ -15,7 +15,7 @@ var INonfungiblePositionManager = _interopDefault(require('@uniswap/v3-periphery
 var ISelfPermit = _interopDefault(require('@uniswap/v3-periphery/artifacts/contracts/interfaces/ISelfPermit.sol/ISelfPermit.json'));
 var IPeripheryPaymentsWithFee = _interopDefault(require('@uniswap/v3-periphery/artifacts/contracts/interfaces/IPeripheryPaymentsWithFee.sol/IPeripheryPaymentsWithFee.json'));
 var IQuoter = _interopDefault(require('@uniswap/v3-periphery/artifacts/contracts/lens/Quoter.sol/Quoter.json'));
-var IQuoterV2 = _interopDefault(require('@uniswap/swap-router-contracts/artifacts/contracts/lens/QuoterV2.sol/QuoterV2.json'));
+var IQuoterV2 = _interopDefault(require('@thinkincoin-libs/swap-router-contracts/artifacts/contracts/lens/QuoterV2.sol/QuoterV2.json'));
 var IUniswapV3Staker = _interopDefault(require('@uniswap/v3-staker/artifacts/contracts/UniswapV3Staker.sol/UniswapV3Staker.json'));
 var ISwapRouter = _interopDefault(require('@uniswap/v3-periphery/artifacts/contracts/SwapRouter.sol/SwapRouter.json'));
 

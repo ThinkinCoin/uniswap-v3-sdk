@@ -1,4 +1,4 @@
-import { BigintIsh } from '@thinkincoin-libs/sdk-core';
+import { BigintIsh } from '@thinkincoin/sdk-core';
 /**
  * Generated method parameters for executing a call.
  */

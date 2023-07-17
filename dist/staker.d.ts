@@ -1,4 +1,4 @@
-import { BigintIsh, Token } from '@thinkincoin-libs/sdk-core';
+import { BigintIsh, Token } from '@thinkincoin/sdk-core';
 import { MethodParameters } from './utils/calldata';
 import { Interface } from '@ethersproject/abi';
 import { Pool } from './entities';

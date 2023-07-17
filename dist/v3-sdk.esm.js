@@ -1,4 +1,4 @@
-import { MaxUint256, sqrt, Price, CurrencyAmount, Percent, TradeType, Fraction, sortedInsert, validateAndParseAddress } from '@thinkincoin-libs/sdk-core';
+import { MaxUint256, sqrt, Price, CurrencyAmount, Percent, TradeType, Fraction, sortedInsert, validateAndParseAddress } from '@thinkincoin/sdk-core';
 import JSBI from 'jsbi';
 import invariant from 'tiny-invariant';
 import { defaultAbiCoder, Interface } from '@ethersproject/abi';
@@ -9,7 +9,7 @@ import INonfungiblePositionManager from '@uniswap/v3-periphery/artifacts/contrac
 import ISelfPermit from '@uniswap/v3-periphery/artifacts/contracts/interfaces/ISelfPermit.sol/ISelfPermit.json';
 import IPeripheryPaymentsWithFee from '@uniswap/v3-periphery/artifacts/contracts/interfaces/IPeripheryPaymentsWithFee.sol/IPeripheryPaymentsWithFee.json';
 import IQuoter from '@uniswap/v3-periphery/artifacts/contracts/lens/Quoter.sol/Quoter.json';
-import IQuoterV2 from '@uniswap/swap-router-contracts/artifacts/contracts/lens/QuoterV2.sol/QuoterV2.json';
+import IQuoterV2 from '@thinkincoin-libs/swap-router-contracts/artifacts/contracts/lens/QuoterV2.sol/QuoterV2.json';
 import IUniswapV3Staker from '@uniswap/v3-staker/artifacts/contracts/UniswapV3Staker.sol/UniswapV3Staker.json';
 import ISwapRouter from '@uniswap/v3-periphery/artifacts/contracts/SwapRouter.sol/SwapRouter.json';
 

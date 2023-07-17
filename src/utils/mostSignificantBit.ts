@@ -1,4 +1,4 @@
-import { MaxUint256 } from '@thinkincoin-libs/sdk-core'
+import { MaxUint256 } from '@thinkincoin/sdk-core'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { ZERO } from '../internalConstants'

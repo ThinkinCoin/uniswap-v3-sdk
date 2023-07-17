@@ -1,4 +1,4 @@
-import { Currency } from '@thinkincoin-libs/sdk-core';
+import { Currency } from '@thinkincoin/sdk-core';
 import { Route } from '../entities/route';
 /**
  * Converts a route to a hex encoded path

@@ -1,5 +1,5 @@
 import { Interface } from '@ethersproject/abi';
-import { BigintIsh, Currency, CurrencyAmount, TradeType } from '@thinkincoin-libs/sdk-core';
+import { BigintIsh, Currency, CurrencyAmount, TradeType } from '@thinkincoin/sdk-core';
 import { MethodParameters } from './utils';
 import { Route } from './entities';
 /**
